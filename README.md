@@ -5,7 +5,7 @@
 
 **установка**
 
-```
+```sh
 
 npm haku-db@lastes
 
@@ -29,6 +29,11 @@ db.add({ username: 'Alice', message: 'Привет, мир!' });
 
 db.add({ username: 'Bob', message: 'Как дела?' });
 
+// удаляем все
+db.remove();
+
+// обновим чот
+db.update(1, { name: pon } );
 // получаем все данные
 
 const allData = db.getAll();
@@ -42,9 +47,7 @@ db.save();
 ```
 
 # Информация
-npm: https://www.npmjs.com/package/haku-db 
-
-git hub: https://github.com/SkyShipGroup/haku-db
+- [npm click](https://www.npmjs.com/package/haku-db) 
 
 ## следущие обновления
-**хз когда будет**
+**хз когда `будет`**

@@ -46,5 +46,5 @@ npm: https://www.npmjs.com/package/haku-db
 
 git hub: https://github.com/SkyShipGroup/haku-db
 
-## следущие обновалния
+## следущие обновления
 **хз когда будет**

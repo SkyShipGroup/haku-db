@@ -1,5 +1,10 @@
 # haku-db
 Простенькая и легкая дата база.
+[![сколько скачано](https://img.shields.io/npm/dt/:haku-db.svg)](https://www.npmjs.com/package/haku-db)
+
+[![Discord Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1051292176404975666)](https://discord.gg/:1051292176404975666)
+
+
 
 # введения
 

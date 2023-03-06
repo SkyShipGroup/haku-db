@@ -13,7 +13,7 @@ npm haku-db@lastes
 
 # Использования 
 
-```
+```js
 
 const TinyDB  = require("./pkg/tibydb.js");
 
